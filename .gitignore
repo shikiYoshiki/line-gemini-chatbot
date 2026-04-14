@@ -1,0 +1,16 @@
+# 環境変数（絶対にコミットしない）
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# SQLite（開発用DB）
+*.db
+*.sqlite3
+
+# その他
+.DS_Store
